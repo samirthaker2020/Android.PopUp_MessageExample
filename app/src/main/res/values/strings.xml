@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android.PopUp_MessageExample</string>
+    <string name="click_here">Click Here</string>
 </resources>
